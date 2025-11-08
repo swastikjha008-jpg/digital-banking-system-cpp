@@ -1,0 +1,48 @@
+# digital-banking-system-cpp
+# 🏦 Digital Banking System (C++)
+
+A simple console-based **Banking System** built in **C++**, designed to simulate basic banking operations.  
+It lets users check balance, deposit or withdraw money, and keeps a transaction record — all inside a clean menu-driven interface.  
+
+This project also includes a **PIN login system** for added security and a **transaction history file** that logs every deposit and withdrawal with a timestamp.  
+
+---
+
+## ⚙️ Features
+- 🔐 **PIN Authentication System** — only authorized users can access the bank.  
+- 💰 **Deposit & Withdraw** — securely manage funds.  
+- 📊 **Balance Display** — view your updated balance anytime.  
+- 🧾 **Transaction History** — every action is saved in `transactions.txt` with date & time.  
+- 💻 **Simple Console Interface** — clean and beginner-friendly design.  
+
+---
+
+## 🧠 What I Learned
+- File handling with `fstream`  
+- Using functions for modular code  
+- Basic data validation and error handling  
+- Working with timestamps using `<ctime>`  
+- Designing a real-world style console application  
+
+---
+
+## 🧩 Tech Used
+- **Language:** C++  
+- **Concepts:** Loops, Functions, File Handling, Time, Input Validation  
+- **IDE:** Visual Studio Code  
+
+---
+
+## 🚀 How to Run
+1. Clone or download the repository  
+2. Open the `.cpp` file in your C++ IDE  
+3. Compile and run  
+4. Default PIN → `8896`  
+5. Transactions will be stored in `transactions.txt`  
+---
+## ✨ Author
+**Swastik Jha**  
+_A student exploring C++ and building real-world projects to sharpen development skills._  
+
+
+## 📁 Example Transaction Output
